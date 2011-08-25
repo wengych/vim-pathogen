@@ -1,0 +1,9 @@
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = git@github.com:wengych/snipmate.vim.git
+[submodule "bundle/dbext"]
+	path = bundle/dbext
+	url = https://github.com/vim-scripts/dbext.vim.git
+[submodule "bundle/Lucius"]
+	path = bundle/Lucius
+	url = https://github.com/vim-scripts/Lucius.git

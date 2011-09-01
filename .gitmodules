@@ -1,9 +1,6 @@
 [submodule "bundle/snipmate"]
 	path = bundle/snipmate
 	url = git@github.com:wengych/snipmate.vim.git
-[submodule "bundle/dbext"]
-	path = bundle/dbext
-	url = https://github.com/vim-scripts/dbext.vim.git
 [submodule "bundle/Lucius"]
 	path = bundle/Lucius
 	url = https://github.com/vim-scripts/Lucius.git
@@ -13,3 +10,12 @@
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/vim-fugitive"]
+	path = bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/textile"]
+	path = bundle/textile
+	url = https://github.com/timcharper/textile.vim.git
